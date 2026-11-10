@@ -1,0 +1,1182 @@
+{
+ "official20041226005853450_30": {
+  "name": "M9.1 2004 Sumatra - Andaman Islands Earthquake (2004)",
+  "mag": 9.1,
+  "length_km": 849.1804750363135,
+  "extent": 1698.360950072627,
+  "strike": 162.5069211053515,
+  "n_aftershocks": 1297,
+  "auc_nn": 0.9036597593582888,
+  "auc_base": 0.3394597130810366
+ },
+ "official20110311054624120_30": {
+  "name": "M9.1 2011 Great Tohoku Earthquake, Japan (2011)",
+  "mag": 9.1,
+  "length_km": 849.1804750363135,
+  "extent": 1698.360950072627,
+  "strike": 31.8388465395914,
+  "n_aftershocks": 3129,
+  "auc_nn": 0.8773657100809419,
+  "auc_base": 0.46248712288447386
+ },
+ "official20100227063411530_30": {
+  "name": "M8.8 2010 Maule, Chile Earthquake (2010)",
+  "mag": 8.8,
+  "length_km": 564.9369748123029,
+  "extent": 1129.8739496246058,
+  "strike": 21.65946692660217,
+  "n_aftershocks": 1387,
+  "auc_nn": 0.9514353931790569,
+  "auc_base": 0.5111151140120369
+ },
+ "official20120411083836720_20": {
+  "name": "M8.6 2012 Wharton Basin Earthquake (2012)",
+  "mag": 8.6,
+  "length_km": 430.5266104917105,
+  "extent": 861.053220983421,
+  "strike": 21.78167530427915,
+  "n_aftershocks": 465,
+  "auc_nn": 0.8287525678260254,
+  "auc_base": 0.5959806143892706
+ },
+ "official20050328160936530_30": {
+  "name": "M8.6 78 km WSW of Singkil, Indonesia (2005)",
+  "mag": 8.6,
+  "length_km": 430.5266104917105,
+  "extent": 861.053220983421,
+  "strike": 144.30825464145525,
+  "n_aftershocks": 1329,
+  "auc_nn": 0.9028733992449522,
+  "auc_base": 0.4760646545842482
+ },
+ "official20010623203314130_33": {
+  "name": "M8.4 6 km SSW of Atico, Peru (2001)",
+  "mag": 8.4,
+  "length_km": 328.0952931131187,
+  "extent": 656.1905862262374,
+  "strike": 103.79357910015635,
+  "n_aftershocks": 345,
+  "auc_nn": 0.9279716771268187,
+  "auc_base": 0.6346851068260775
+ },
+ "official20070912111026830_34": {
+  "name": "M8.4 122 km SW of Bengkulu, Indonesia (2007)",
+  "mag": 8.4,
+  "length_km": 328.0952931131187,
+  "extent": 656.1905862262374,
+  "strike": 133.96414084191682,
+  "n_aftershocks": 319,
+  "auc_nn": 0.8976189881740028,
+  "auc_base": 0.6758128812656563
+ },
+ "us20003k7a": {
+  "name": "M8.3 48 km W of Illapel, Chile (2015)",
+  "mag": 8.3,
+  "length_km": 286.41779699065825,
+  "extent": 572.8355939813165,
+  "strike": 12.518841739867689,
+  "n_aftershocks": 707,
+  "auc_nn": 0.9448809409042705,
+  "auc_base": 0.4153571772871879
+ },
+ "usp000exfn": {
+  "name": "M8.3 2006 Kuril Islands Earthquake (2006)",
+  "mag": 8.3,
+  "length_km": 286.41779699065825,
+  "extent": 572.8355939813165,
+  "strike": 53.6576778491508,
+  "n_aftershocks": 867,
+  "auc_nn": 0.9445315983288473,
+  "auc_base": 0.5161775957637709
+ },
+ "usb000h4jh": {
+  "name": "M8.3 2013 Sea of Okhotsk Earthquake (2013)",
+  "mag": 8.3,
+  "length_km": 286.41779699065825,
+  "extent": 572.8355939813165,
+  "strike": 70.52066707836387,
+  "n_aftershocks": 43,
+  "auc_nn": 0.46788571428571424,
+  "auc_base": 0.509231746031746
+ },
+ "ak0219neiszm": {
+  "name": "M8.2 2021 Chignik, Alaska Earthquake (2021)",
+  "mag": 8.2,
+  "length_km": 250.0345361696427,
+  "extent": 500.0690723392854,
+  "strike": 69.49700905422918,
+  "n_aftershocks": 77,
+  "auc_nn": 0.9797712053571429,
+  "auc_base": 0.6389409279336735
+ },
+ "us1000gcii": {
+  "name": "M8.2 2018 Fiji Earthquake (2018)",
+  "mag": 8.2,
+  "length_km": 250.0345361696427,
+  "extent": 500.0690723392854,
+  "strike": 90.11192837937942,
+  "n_aftershocks": 472,
+  "auc_nn": 0.7663148261134837,
+  "auc_base": 0.5361989017693716
+ },
+ "us2000ahv0": {
+  "name": "M8.2 2017 Tehuantepec, Mexico Earthquake (2017)",
+  "mag": 8.2,
+  "length_km": 250.0345361696427,
+  "extent": 500.0690723392854,
+  "strike": 115.87209906645529,
+  "n_aftershocks": 450,
+  "auc_nn": 0.9033663366336633,
+  "auc_base": 0.5944010871675403
+ },
+ "usp000jhjb": {
+  "name": "M8.2 2012 Wharton Basin Aftershock (2012)",
+  "mag": 8.2,
+  "length_km": 250.0345361696427,
+  "extent": 500.0690723392854,
+  "strike": 92.24350275864276,
+  "n_aftershocks": 399,
+  "auc_nn": 0.7840397967786502,
+  "auc_base": 0.5574727103389524
+ },
+ "usc000nzvd": {
+  "name": "M8.2 93 km NW of Iquique, Chile (2014)",
+  "mag": 8.2,
+  "length_km": 250.0345361696427,
+  "extent": 500.0690723392854,
+  "strike": 146.3214971503947,
+  "n_aftershocks": 418,
+  "auc_nn": 0.8501115794693777,
+  "auc_base": 0.5305072438099961
+ },
+ "official20030925195006360_27": {
+  "name": "M8.2 2003 Tokachi-Oki Earthquake (2003)",
+  "mag": 8.16,
+  "length_km": 236.8099793873793,
+  "extent": 473.6199587747586,
+  "strike": 39.71914427510186,
+  "n_aftershocks": 185,
+  "auc_nn": 0.8953124515909162,
+  "auc_base": 0.503867563073809
+ },
+ "us6000f53e": {
+  "name": "M8.1 2021 South Sandwich Islands Earthquake (2021)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 6.863881960643593,
+  "n_aftershocks": 1026,
+  "auc_nn": 0.9378941275627811,
+  "auc_base": 0.44539164813442056
+ },
+ "us7000dflf": {
+  "name": "M8.1 2021 Kermadec Islands, New Zealand Earthquake (2021)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 89.66557431431613,
+  "n_aftershocks": 684,
+  "auc_nn": 0.7995893189678105,
+  "auc_base": 0.4125785614525139
+ },
+ "usp000f83m": {
+  "name": "M8.1 2007 Solomon Islands Earthquake (2007)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 124.76439704425765,
+  "n_aftershocks": 423,
+  "auc_nn": 0.85644,
+  "auc_base": 0.55001
+ },
+ "usp000db93": {
+  "name": "M8.1 2004 Tasman Sea Earthquake (2004)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 10.960465047007753,
+  "n_aftershocks": 29,
+  "auc_nn": 0.9686402584632672,
+  "auc_base": 0.311771316196095
+ },
+ "usp000f2ab": {
+  "name": "M8.1 2007 Kuril Islands Earthquake (2007)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 59.41217762531326,
+  "n_aftershocks": 285,
+  "auc_nn": 0.8869126773049645,
+  "auc_base": 0.47766026706560283
+ },
+ "usp000h1ys": {
+  "name": "M8.1 2009 Samoa Earthquake (2009)",
+  "mag": 8.1,
+  "length_km": 218.27299118430014,
+  "extent": 436.5459823686003,
+  "strike": 128.69120458375605,
+  "n_aftershocks": 302,
+  "auc_nn": 0.8579664603038479,
+  "auc_base": 0.34995086102747397
+ },
+ "usp000eg5g": {
+  "name": "M8.0 2006 Tonga Earthquake (2006)",
+  "mag": 8.0,
+  "length_km": 190.54607179632464,
+  "extent": 381.0921435926493,
+  "strike": 46.163839920332464,
+  "n_aftershocks": 237,
+  "auc_nn": 0.8371587902837903,
+  "auc_base": 0.39608886483886485
+ },
+ "usp000a3qq": {
+  "name": "M8.0 2000 New Ireland Earthquake (2000)",
+  "mag": 8.0,
+  "length_km": 190.54607179632464,
+  "extent": 381.0921435926493,
+  "strike": 99.41200328765323,
+  "n_aftershocks": 686,
+  "auc_nn": 0.7122707810962,
+  "auc_base": 0.7545762766789134
+ },
+ "usp000fjta": {
+  "name": "M8.0 41 km SW of San Vicente de Ca\u00f1ete, Peru (2007)",
+  "mag": 8.0,
+  "length_km": 190.54607179632464,
+  "extent": 381.0921435926493,
+  "strike": 137.25610628950332,
+  "n_aftershocks": 143,
+  "auc_nn": 0.9629780353941421,
+  "auc_base": 0.5868795301312157
+ },
+ "usc000f1s0": {
+  "name": "M8.0 2013 Santa Cruz Islands Earthquake (2013)",
+  "mag": 8.0,
+  "length_km": 190.54607179632464,
+  "extent": 381.0921435926493,
+  "strike": 104.09935475345134,
+  "n_aftershocks": 700,
+  "auc_nn": 0.954152762649054,
+  "auc_base": 0.5433200200563653
+ },
+ "us10007uph": {
+  "name": "M7.9 35 km WNW of Panguna, Papua New Guinea (2017)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 103.28947896996966,
+  "n_aftershocks": 65,
+  "auc_nn": 0.8014240949023558,
+  "auc_base": 0.5450800179061048
+ },
+ "us200081v8": {
+  "name": "M7.9 140 km E of Kokopo, Papua New Guinea (2016)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 145.16555141836452,
+  "n_aftershocks": 298,
+  "auc_nn": 0.8609745997375657,
+  "auc_base": 0.6074010507356646
+ },
+ "usp000fn2b": {
+  "name": "M7.9 87 km SW of Sungai Penuh, Indonesia (2007)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 141.0965706149069,
+  "n_aftershocks": 248,
+  "auc_nn": 0.8900113268857215,
+  "auc_base": 0.5341011014243174
+ },
+ "usp0009txv": {
+  "name": "M7.9 103 km S of Bengkulu, Indonesia (2000)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 146.69431036587736,
+  "n_aftershocks": 244,
+  "auc_nn": 0.976212136527511,
+  "auc_base": 0.5098049125644395
+ },
+ "usp000g650": {
+  "name": "M7.9 58 km W of Tianpeng, China (2008)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 44.91563885188291,
+  "n_aftershocks": 605,
+  "auc_nn": 0.9150263460723154,
+  "auc_base": 0.5740718309006118
+ },
+ "ak002e435qpj": {
+  "name": "M7.9 2002 Denali Fault, Alaska Earthquake (2002)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 108.8250072796283,
+  "n_aftershocks": 165,
+  "auc_nn": 0.908443633044272,
+  "auc_base": 0.39476951163852125
+ },
+ "us2000cmy3": {
+  "name": "M7.9 261 km SE of Chiniak, Alaska (2018)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 95.16061087689366,
+  "n_aftershocks": 195,
+  "auc_nn": 0.9865018471156579,
+  "auc_base": 0.3654447286160841
+ },
+ "us2000h9e2": {
+  "name": "M7.9 45 km S of Levuka, Fiji (2018)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 89.95923627853678,
+  "n_aftershocks": 152,
+  "auc_nn": 0.9329649556492657,
+  "auc_base": 0.4395569773641607
+ },
+ "usp000hvpa": {
+  "name": "M7.9 47 km E of ?arai, Japan (2011)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 29.577000846184518,
+  "n_aftershocks": 3026,
+  "auc_nn": 0.6903139511407228,
+  "auc_base": 0.6167501297914684
+ },
+ "usc000rki5": {
+  "name": "M7.9 Rat Islands, Aleutian Islands, Alaska (2014)",
+  "mag": 7.9,
+  "length_km": 166.3412650370168,
+  "extent": 332.6825300740336,
+  "strike": 89.88200566916026,
+  "n_aftershocks": 132,
+  "auc_nn": 0.9291174603174603,
+  "auc_base": 0.5541079365079364
+ },
+ "us6000jllz": {
+  "name": "M7.8 Pazarcik earthquake, Kahramanmaras earthquake sequence (2023)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 46.99006456182369,
+  "n_aftershocks": 479,
+  "auc_nn": 0.8776786026113724,
+  "auc_base": 0.3414491770235143
+ },
+ "us20007z80": {
+  "name": "M7.8 69 km WSW of Kirakira, Solomon Islands (2016)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 125.67546538118728,
+  "n_aftershocks": 309,
+  "auc_nn": 0.9592100652970219,
+  "auc_base": 0.5018920210224558
+ },
+ "usp000a45f": {
+  "name": "M7.8 138 km SSW of Kokopo, Papua New Guinea (2000)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 110.35953681543272,
+  "n_aftershocks": 477,
+  "auc_nn": 0.7761894357917954,
+  "auc_base": 0.3327437740808945
+ },
+ "usp000hat0": {
+  "name": "M7.8 75 km E of Sinabang, Indonesia (2010)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 142.84135567542623,
+  "n_aftershocks": 38,
+  "auc_nn": 0.9089269841269841,
+  "auc_base": 0.6188952380952379
+ },
+ "usp000hnj4": {
+  "name": "M7.8 215 km SW of Sungai Penuh, Indonesia (2010)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 121.58146109326745,
+  "n_aftershocks": 134,
+  "auc_nn": 0.9215635179153094,
+  "auc_base": 0.48999248308694565
+ },
+ "usp000gz8j": {
+  "name": "M7.8 97 km WSW of Te Anau, New Zealand (2009)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 32.95391456890724,
+  "n_aftershocks": 113,
+  "auc_nn": 0.9861057692307692,
+  "auc_base": 0.5613301282051282
+ },
+ "usp000dsw1": {
+  "name": "M7.8 102 km ENE of Iquique, Chile (2005)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 173.78798289159022,
+  "n_aftershocks": 60,
+  "auc_nn": 0.9324444444444444,
+  "auc_base": 0.5143619047619048
+ },
+ "usp000asvm": {
+  "name": "M7.8 Southern Qinghai, China (2001)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 95.02030223209735,
+  "n_aftershocks": 37,
+  "auc_nn": 0.8671293375394322,
+  "auc_base": 0.3893375394321767
+ },
+ "us1000778i": {
+  "name": "M7.8 53 km NNE of Amberley, New Zealand (2016)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 42.72007645764725,
+  "n_aftershocks": 290,
+  "auc_nn": 0.9460816310858549,
+  "auc_base": 0.5846212179388727
+ },
+ "us20002ki3": {
+  "name": "M7.8 Bonin Islands, Japan region (2015)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 166.55449818371648,
+  "n_aftershocks": 41,
+  "auc_nn": 0.7062161539347851,
+  "auc_base": 0.4428217536582556
+ },
+ "usp000juhz": {
+  "name": "M7.8 206 km SW of Prince Rupert, Canada (2012)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 133.50833349065064,
+  "n_aftershocks": 186,
+  "auc_nn": 0.9713254823352543,
+  "auc_base": 0.6121473314958656
+ },
+ "usp000h2gd": {
+  "name": "M7.8 196 km NW of Sola, Vanuatu (2009)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 161.4926572047073,
+  "n_aftershocks": 246,
+  "auc_nn": 0.9475999915081522,
+  "auc_base": 0.5387812075407609
+ },
+ "usp000fu3q": {
+  "name": "M7.8 south of the Fiji Islands (2007)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 89.87221700891263,
+  "n_aftershocks": 52,
+  "auc_nn": 0.7709931798806479,
+  "auc_base": 0.49592391304347827
+ },
+ "usp000cd1n": {
+  "name": "M7.8 Rat Islands, Aleutian Islands, Alaska (2003)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 90.16003633245322,
+  "n_aftershocks": 201,
+  "auc_nn": 0.9508896174863387,
+  "auc_base": 0.49567213114754105
+ },
+ "usp000a3sp": {
+  "name": "M7.8 135 km SE of Kokopo, Papua New Guinea (2000)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 132.71068697001766,
+  "n_aftershocks": 652,
+  "auc_nn": 0.8907680101555062,
+  "auc_base": 0.4909996826404316
+ },
+ "us20005j32": {
+  "name": "M7.8 27 km SSE of Muisne, Ecuador (2016)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 31.843584493914808,
+  "n_aftershocks": 87,
+  "auc_nn": 0.9083432717153648,
+  "auc_base": 0.5911908666269131
+ },
+ "us7000asvb": {
+  "name": "M7.8 2020 Perryville, Alaska Earthquake (2020)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 70.64391505286652,
+  "n_aftershocks": 75,
+  "auc_nn": 0.9307509235578288,
+  "auc_base": 0.6359317277635692
+ },
+ "us20002926": {
+  "name": "M7.8 67 km NNE of Bharatpur, Nepal (2015)",
+  "mag": 7.8,
+  "length_km": 145.21116175877404,
+  "extent": 290.4223235175481,
+  "strike": 114.05207490526283,
+  "n_aftershocks": 242,
+  "auc_nn": 0.9351002150207341,
+  "auc_base": 0.6186117723851943
+ },
+ "us6000kd0n": {
+  "name": "M7.7 southeast of the Loyalty Islands (2023)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 128.77878291134664,
+  "n_aftershocks": 279,
+  "auc_nn": 0.9622664629223849,
+  "auc_base": 0.447619940029985
+ },
+ "us6000dg77": {
+  "name": "M7.7 southeast of the Loyalty Islands (2021)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 98.17197350103265,
+  "n_aftershocks": 362,
+  "auc_nn": 0.946681131468981,
+  "auc_base": 0.5136235334297653
+ },
+ "usp000h2g9": {
+  "name": "M7.7 148 km NW of Sola, Vanuatu (2009)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 161.51779502368808,
+  "n_aftershocks": 249,
+  "auc_nn": 0.8877731409030314,
+  "auc_base": 0.4915352885488514
+ },
+ "usp000fshy": {
+  "name": "M7.7 36 km ESE of Tocopilla, Chile (2007)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 83.07152204002396,
+  "n_aftershocks": 111,
+  "auc_nn": 0.7847997999973685,
+  "auc_base": 0.2096146001921078
+ },
+ "us100068jg": {
+  "name": "M7.7 Pagan region, Northern Mariana Islands (2016)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 159.67524536018053,
+  "n_aftershocks": 111,
+  "auc_nn": 0.8627354333766486,
+  "auc_base": 0.40358620483637286
+ },
+ "usp000ensm": {
+  "name": "M7.7 226 km SSW of Singaparna, Indonesia (2006)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 122.32085672443884,
+  "n_aftershocks": 376,
+  "auc_nn": 0.8937790883910233,
+  "auc_base": 0.4069972301256807
+ },
+ "usp000ba6m": {
+  "name": "M7.7 south of the Fiji Islands (2002)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 90.3248366806301,
+  "n_aftershocks": 52,
+  "auc_nn": 0.7712536566241442,
+  "auc_base": 0.4523357157936005
+ },
+ "usp000ba6g": {
+  "name": "M7.7 Fiji region (2002)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 90.35689387509188,
+  "n_aftershocks": 76,
+  "auc_nn": 0.7106396223478757,
+  "auc_base": 0.3058653663260189
+ },
+ "usp000a8ds": {
+  "name": "M7.7 17 km NW of Bhach?u, India (2001)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 113.68797331931975,
+  "n_aftershocks": 70,
+  "auc_nn": 0.989795918367347,
+  "auc_base": 0.4326072225765306
+ },
+ "usp000a7m5": {
+  "name": "M7.7 28 km SSW of Puerto El Triunfo, El Salvador (2001)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 119.62406570057294,
+  "n_aftershocks": 83,
+  "auc_nn": 0.9127906976744186,
+  "auc_base": 0.5346042039355994
+ },
+ "us60007idc": {
+  "name": "M7.7 123 km NNW of Lucea, Jamaica (2020)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 73.51863587969785,
+  "n_aftershocks": 30,
+  "auc_nn": 0.7860654586318303,
+  "auc_base": 0.5513590391908976
+ },
+ "us20009x42": {
+  "name": "M7.7 Komandorskiye Ostrova, Russia region (2017)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 125.75026758748473,
+  "n_aftershocks": 152,
+  "auc_nn": 0.881314054893164,
+  "auc_base": 0.5889555344240444
+ },
+ "usc000p27i": {
+  "name": "M7.7 53 km SW of Iquique, Chile (2014)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 150.89768680463771,
+  "n_aftershocks": 259,
+  "auc_nn": 0.8663052981290436,
+  "auc_base": 0.46927784577723386
+ },
+ "usp000gs2d": {
+  "name": "M7.7 140 km WNW of Manokwari, Indonesia (2009)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 101.6723244786719,
+  "n_aftershocks": 170,
+  "auc_nn": 0.9704022261573488,
+  "auc_base": 0.5249067851604176
+ },
+ "usp000hvpg": {
+  "name": "M7.7 272 km ESE of Kamaishi, Japan (2011)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 24.186693707496374,
+  "n_aftershocks": 2788,
+  "auc_nn": 0.5094605669886874,
+  "auc_base": 0.5386416729586536
+ },
+ "usb000l0gq": {
+  "name": "M7.7 Scotia Sea (2013)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 95.67480394383522,
+  "n_aftershocks": 194,
+  "auc_nn": 0.9114179392509413,
+  "auc_base": 0.5255936906036309
+ },
+ "usb000jyiv": {
+  "name": "M7.7 113 km NW of Bela, Pakistan (2013)",
+  "mag": 7.7,
+  "length_km": 126.76518658578462,
+  "extent": 253.53037317156924,
+  "strike": 34.72856107834778,
+  "n_aftershocks": 47,
+  "auc_nn": 0.8864331210191082,
+  "auc_base": 0.49665605095541404
+ },
+ "us7000lff4": {
+  "name": "M7.6 19 km E of Gamut, Philippines (2023)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 179.4056162951678,
+  "n_aftershocks": 782,
+  "auc_nn": 0.880424481245012,
+  "auc_base": 0.5221842577813248
+ },
+ "us6000kawn": {
+  "name": "M7.6 82 km WNW of Hihifo, Tonga (2023)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 20.0172659449972,
+  "n_aftershocks": 37,
+  "auc_nn": 0.7544319153042375,
+  "auc_base": 0.48487772600700285
+ },
+ "us7000j36j": {
+  "name": "M7.6 Pulau Pulau Tanimbar, Indonesia (2023)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 89.31597544234161,
+  "n_aftershocks": 42,
+  "auc_nn": 0.8276768598813328,
+  "auc_base": 0.5242628936558649
+ },
+ "us6000iitd": {
+  "name": "M7.6 70 km E of Kainantu, Papua New Guinea (2022)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 100.72578695137035,
+  "n_aftershocks": 34,
+  "auc_nn": 0.8651785924513198,
+  "auc_base": 0.45731204822113913
+ },
+ "us10007mn3": {
+  "name": "M7.6 41 km SW of Quell\u00f3n, Chile (2016)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 81.65496410856787,
+  "n_aftershocks": 24,
+  "auc_nn": 0.9725274725274725,
+  "auc_base": 0.8606557377049181
+ },
+ "usp000e12e": {
+  "name": "M7.6 21 km NNE of Muzaffar?b?d, Pakistan (2005)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 135.06477274287582,
+  "n_aftershocks": 295,
+  "auc_nn": 0.9698160173160173,
+  "auc_base": 0.5338041125541126
+ },
+ "usp000c41f": {
+  "name": "M7.6 Scotia Sea (2003)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 86.36170275304153,
+  "n_aftershocks": 58,
+  "auc_nn": 0.9676172137661225,
+  "auc_base": 0.6881991564276546
+ },
+ "usp000ef1h": {
+  "name": "M7.6 80 km NE of Tilichiki, Russia (2006)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 48.41972699875092,
+  "n_aftershocks": 207,
+  "auc_nn": 0.9631470662143485,
+  "auc_base": 0.47067392260334207
+ },
+ "usp000h237": {
+  "name": "M7.6 30 km WSW of Pariaman, Indonesia (2009)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 121.13952210674955,
+  "n_aftershocks": 25,
+  "auc_nn": 0.7674050632911392,
+  "auc_base": 0.5491930379746836
+ },
+ "usp000j48h": {
+  "name": "M7.6 Kermadec Islands region (2011)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 14.18881268448217,
+  "n_aftershocks": 227,
+  "auc_nn": 0.9205982242625405,
+  "auc_base": 0.4096416048791497
+ },
+ "usp000bnyr": {
+  "name": "M7.6 16 km SSW of Cuyutl\u00e1n, Mexico (2003)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 108.70208423574577,
+  "n_aftershocks": 29,
+  "auc_nn": 0.9543412044995325,
+  "auc_base": 0.3064477215838837
+ },
+ "usp0009sbh": {
+  "name": "M7.6 89 km E of Luwuk, Indonesia (2000)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 22.2549089643086,
+  "n_aftershocks": 71,
+  "auc_nn": 0.9446278336059827,
+  "auc_base": 0.5890906169665809
+ },
+ "usp000c2ka": {
+  "name": "M7.6 Carlsberg Ridge (2003)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 40.975594172793876,
+  "n_aftershocks": 25,
+  "auc_nn": 0.843235642800033,
+  "auc_base": 0.5505224559565493
+ },
+ "usp000bbpf": {
+  "name": "M7.6 68 km ESE of Aitape, Papua New Guinea (2002)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 100.32906176318943,
+  "n_aftershocks": 72,
+  "auc_nn": 0.9333476241514826,
+  "auc_base": 0.3409932118613791
+ },
+ "usp000aj40": {
+  "name": "M7.6 51 km SW of Punta de Bomb\u00f3n, Peru (2001)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 71.32632701676606,
+  "n_aftershocks": 115,
+  "auc_nn": 0.8124909104130308,
+  "auc_base": 0.5691672120418848
+ },
+ "usp000be54": {
+  "name": "M7.6 102 km SSE of Manokwari, Indonesia (2002)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 156.85872853680894,
+  "n_aftershocks": 122,
+  "auc_nn": 0.8796428066145691,
+  "auc_base": 0.5200068242911475
+ },
+ "us100040ww": {
+  "name": "M7.6 155 km WNW of I\u00f1apari, Peru (2015)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 159.55829332435633,
+  "n_aftershocks": 21,
+  "auc_nn": 0.8864306784660767,
+  "auc_base": 0.5193320691108302
+ },
+ "usp000jrsw": {
+  "name": "M7.6 11 km ENE of Hojancha, Costa Rica (2012)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 155.29364710742087,
+  "n_aftershocks": 37,
+  "auc_nn": 0.9035350781533988,
+  "auc_base": 0.5271037804434751
+ },
+ "usp000jr83": {
+  "name": "M7.6 89 km E of Sulangan, Philippines (2012)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 172.11620236431358,
+  "n_aftershocks": 283,
+  "auc_nn": 0.9375062059378413,
+  "auc_base": 0.543525345050144
+ },
+ "usp000hgmh": {
+  "name": "M7.6 61 km W of Bantogon, Philippines (2010)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 82.10555072461749,
+  "n_aftershocks": 34,
+  "auc_nn": 0.9709377808848497,
+  "auc_base": 0.4135956589766636
+ },
+ "usp000e8ys": {
+  "name": "M7.6 196 km S of Ambon, Indonesia (2006)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 150.84553263434023,
+  "n_aftershocks": 25,
+  "auc_nn": 0.3539852786540484,
+  "auc_base": 0.4566561514195584
+ },
+ "usp0009qb4": {
+  "name": "M7.6 Volcano Islands, Japan region (2000)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 123.07544884494774,
+  "n_aftershocks": 25,
+  "auc_nn": 0.9736277602523659,
+  "auc_base": 0.41207150368033646
+ },
+ "usc000phx5": {
+  "name": "M7.6 93 km SSE of Kirakira, Solomon Islands (2014)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 104.92460359270223,
+  "n_aftershocks": 268,
+  "auc_nn": 0.9389240642632555,
+  "auc_base": 0.5200961118392311
+ },
+ "us100040x6": {
+  "name": "M7.6 185 km WNW of I\u00f1apari, Peru (2015)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 159.7249655013027,
+  "n_aftershocks": 20,
+  "auc_nn": 0.8968008255933951,
+  "auc_base": 0.5302773061686473
+ },
+ "usp000gv5p": {
+  "name": "M7.6 191 km S of \u2018Ohonua, Tonga (2009)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 21.24112403275433,
+  "n_aftershocks": 77,
+  "auc_nn": 0.9017424242424242,
+  "auc_base": 0.46830627705627703
+ },
+ "usp000dz2j": {
+  "name": "M7.6 135 km E of Kokopo, Papua New Guinea (2005)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 79.04195779031251,
+  "n_aftershocks": 156,
+  "auc_nn": 0.6594929183423676,
+  "auc_base": 0.5745445007868508
+ },
+ "us70003kyy": {
+  "name": "M7.6 48 km NE of Kokopo, Papua New Guinea (2019)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 134.61441142222117,
+  "n_aftershocks": 57,
+  "auc_nn": 0.9048178613396005,
+  "auc_base": 0.4685174304739522
+ },
+ "us6000c9hg": {
+  "name": "M7.6 2020 Sand Point, Alaska Earthquake (2020)",
+  "mag": 7.6,
+  "length_km": 110.66237839776664,
+  "extent": 221.3247567955333,
+  "strike": 30.30709985042399,
+  "n_aftershocks": 138,
+  "auc_nn": 0.9604907921596171,
+  "auc_base": 0.3493601703285849
+ },
+ "us6000m0xl": {
+  "name": "M7.5 2024 Noto Peninsula, Japan Earthquake (2024)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 53.34947743958172,
+  "n_aftershocks": 117,
+  "auc_nn": 0.9878038093012387,
+  "auc_base": 0.5067772844122458
+ },
+ "us6000jlqa": {
+  "name": "M7.5 Elbistan earthquake, Kahramanmaras earthquake sequence (2023)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 50.493872896855464,
+  "n_aftershocks": 364,
+  "auc_nn": 0.8257688492063493,
+  "auc_base": 0.628968253968254
+ },
+ "us6000f4ly": {
+  "name": "M7.5 South Sandwich Islands region (2021)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 4.426736882112276,
+  "n_aftershocks": 890,
+  "auc_nn": 0.7899435382234987,
+  "auc_base": 0.33063619340968387
+ },
+ "usp000f34b": {
+  "name": "M7.5 126 km WNW of Ternate, Indonesia (2007)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 45.303654364093205,
+  "n_aftershocks": 240,
+  "auc_nn": 0.9073069424429939,
+  "auc_base": 0.58480969738069
+ },
+ "ak0138esnzr": {
+  "name": "M7.5 110 km SW of Edna Bay, Alaska (2013)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 155.97775095711012,
+  "n_aftershocks": 20,
+  "auc_nn": 0.9716698232323232,
+  "auc_base": 0.5336174242424243
+ },
+ "us20002bnf": {
+  "name": "M7.5 131 km SSW of Kokopo, Papua New Guinea (2015)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 75.57914399535359,
+  "n_aftershocks": 194,
+  "auc_nn": 0.8497804054054054,
+  "auc_base": 0.5917004504504505
+ },
+ "us10001rvu": {
+  "name": "M7.5 53 km SE of Kokopo, Papua New Guinea (2015)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 98.1658956591989,
+  "n_aftershocks": 109,
+  "auc_nn": 0.717272131147541,
+  "auc_base": 0.7498185792349727
+ },
+ "usp000h05x": {
+  "name": "M7.5 266 km N of Bamboo Flat, India (2009)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 15.57615700376682,
+  "n_aftershocks": 52,
+  "auc_nn": 0.9687752045166494,
+  "auc_base": 0.5432077428275147
+ },
+ "usp000azqw": {
+  "name": "M7.5 Mindanao, Philippines (2002)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 88.28460066449829,
+  "n_aftershocks": 83,
+  "auc_nn": 0.9608443847574283,
+  "auc_base": 0.711655755134016
+ },
+ "usp000a70h": {
+  "name": "M7.5 21 km SE of Lukatan, Philippines (2001)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 171.27343225260992,
+  "n_aftershocks": 58,
+  "auc_nn": 0.8050641025641025,
+  "auc_base": 0.2226602564102564
+ },
+ "usb000pr89": {
+  "name": "M7.5 70 km SW of Panguna, Papua New Guinea (2014)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 129.28989313361706,
+  "n_aftershocks": 314,
+  "auc_nn": 0.9032690531998011,
+  "auc_base": 0.4800767099936075
+ },
+ "us70008fi4": {
+  "name": "M7.5 221 km SSE of Severo-Kuril\u2019sk, Russia (2020)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 91.28550719767372,
+  "n_aftershocks": 36,
+  "auc_nn": 0.9354168702961587,
+  "auc_base": 0.2005180334278174
+ },
+ "us1000h3p4": {
+  "name": "M7.5 72 km N of Palu, Indonesia (2018)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 166.5589761570538,
+  "n_aftershocks": 109,
+  "auc_nn": 0.8436837100431571,
+  "auc_base": 0.44469233332520586
+ },
+ "us1000i2gt": {
+  "name": "M7.5 166 km ESE of Tadine, New Caledonia (2018)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 18.844434410576685,
+  "n_aftershocks": 190,
+  "auc_nn": 0.9107022849462365,
+  "auc_base": 0.5042602726574501
+ },
+ "us2000d7q6": {
+  "name": "M7.5 32 km SW of Tari, Papua New Guinea (2018)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 115.14331802552009,
+  "n_aftershocks": 278,
+  "auc_nn": 0.9508909169926119,
+  "auc_base": 0.5415951874471054
+ },
+ "us10003re5": {
+  "name": "M7.5 Hindu Kush region, Afghanistan (2015)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 69.24108424171537,
+  "n_aftershocks": 54,
+  "auc_nn": 0.9295685279187818,
+  "auc_base": 0.7456641285956007
+ },
+ "usp000d85g": {
+  "name": "M7.5 63 km NW of Maubara, Timor Leste (2004)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 70.68852765331197,
+  "n_aftershocks": 140,
+  "auc_nn": 0.9805739743058434,
+  "auc_base": 0.5511120320486255
+ },
+ "usp000hgmq": {
+  "name": "M7.5 72 km S of Panubigan, Philippines (2010)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 37.992866669745666,
+  "n_aftershocks": 26,
+  "auc_nn": 0.9415759512633576,
+  "auc_base": 0.6544325709910449
+ },
+ "usp000hdwb": {
+  "name": "M7.5 Nicobar Islands, India region (2010)",
+  "mag": 7.5,
+  "length_km": 96.60508789898131,
+  "extent": 193.21017579796262,
+  "strike": 11.527416994955649,
+  "n_aftershocks": 47,
+  "auc_nn": 0.9712812536006452,
+  "auc_base": 0.5593962438068902
+ }
+}
