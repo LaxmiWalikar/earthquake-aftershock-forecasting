@@ -3,14 +3,10 @@
 Prototype for IBM Review 1. A neural network learns where aftershocks are likely to occur around a major earthquake, and a web dashboard compares its predictions with what really happened.
 
 Team: Laxmi C K (1WA25CS115)
-
      Lakshmikanta V L (1WA25CS116)
-     
      Laxmi Danappa Rathod (1WA25CS117)
-     
      Laxmi Walikar (1WA25CS118)
-     
-     Leela R (1WA25CS119)
+      Leela R (1WA25CS119)
 
 ## 1. The problem in simple words
 After a big earthquake (the **mainshock**), smaller earthquakes called **aftershocks** keep happening for days or weeks and can collapse already damaged buildings. Science can already estimate **when** aftershocks occur (Omori law) and **how big** they are (Gutenberg-Richter law). Predicting **where** they occur is still hard.
