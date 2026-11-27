@@ -3,6 +3,7 @@
 Prototype for IBM Review 1. A neural network learns where aftershocks are likely to occur around a major earthquake, and a web dashboard compares its predictions with what really happened.
 
 Team: 
+      
       Laxmi C K (1WA25CS115)
 
      Lakshmikanta V L (1WA25CS116)
